@@ -1,0 +1,30 @@
+/* css of recent news */
+.recent_news_image{
+    height: 190px ;
+}
+.recent_news_icons{
+  
+    color: var(--main_color);
+
+}
+.recent_news_icons p{
+    color: #000;
+    margin-right:30px ;
+
+}
+
+.recent_news_content h3{
+    font-size: large;
+    margin-bottom:5px;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+.recent_news_content p{
+    color: #686363;
+    margin-bottom:5px;
+    margin-left: 5px;
+}
+.recent_news_content a{
+    color: var(--main_color);
+    margin-left: 5px;
+}

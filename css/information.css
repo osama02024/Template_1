@@ -1,0 +1,44 @@
+/* css of information */
+.information{
+    background-image: url(../images/background/background3.jpg);
+    background-size:cover ;
+    background-attachment: fixed;
+    height: 250px;
+
+}
+.information .div{
+    width: 49%;
+    height: 220px;
+}
+.information_image{
+    width: 70px;
+    height: 70px;
+    margin:30 0 0 90 ;
+
+
+}
+.information_image img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.information  .div  h4{
+    color: var(--whitecolor);
+    margin:0 0 10 100;
+
+}
+.information_id{
+    top: 70px;
+    right:250px ;
+    margin: auto;
+    left: 60px;
+}
+.information_id span{
+margin-left: 100;
+margin-top: 40px;
+color: var(--main_color);
+}
+.paragraph{
+    margin-top: 40px;
+    color:#e4dede;
+}
